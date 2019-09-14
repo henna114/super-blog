@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+
+h1 {
+    color: pink;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-transform: uppercase;
+  }
+
+h2 {
+    color: pink;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+  p {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+
+  a {
+      color: hotpink;
+      
+  }
+
+  a:hover {
+      color: deeppink;
+      text-decoration: none;
+  }
+
+  .blogposts {
+      margin-bottom: 70px;
+      
+    }
+
+  .date {
+      font-style: italic;
+  }
+
